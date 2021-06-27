@@ -1,3 +1,6 @@
+# Project Details : <i>inshorts clone app implemented using React & Material UI & free API Service</i>
+<img width="505" alt="Screenshot 2021-06-27 at 7 57 32 PM" src="https://user-images.githubusercontent.com/85902045/123548368-2320bb00-d782-11eb-8332-f5f491c03431.png"><img width="497" alt="Screenshot 2021-06-27 at 7 57 58 PM" src="https://user-images.githubusercontent.com/85902045/123548369-25831500-d782-11eb-92a7-ecb28c5030d1.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
